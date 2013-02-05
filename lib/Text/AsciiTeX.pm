@@ -108,7 +108,7 @@ This module is basically just a C-level Perl wrapper of F<AsciiTeX> written by B
 
 =head1 SOURCE REPOSITORY
 
-L<http://github.com/jberger/Text::AsciiTeX>
+L<http://github.com/jberger/Text-AsciiTeX>
 
 =head1 AUTHOR
 
